@@ -37,7 +37,7 @@ SWS例外申請DB →　Notes://d19dbr14.sagamino.ibm.com/4925806B0031FC54/C7522
 - 申請書中の「Project Description」の 「Government or federal contract:」 のところは、GOE案件かどうかを示すところですが、2016/10/21の購買の確認により伊丹市は該当しないが国立病院機構はＧＯＥに該当するので、今後もGOEは「Ｙ」に設定するようにとのこと  
 - suppliersでは「suggest a new supplier」を選択し、supplier 情報は以下のノベル社の情報を入力する  
 >
-> Supplier name: 	ノベル株式会社　SUSEソフトウエアソリューションズジャパン株式会社  
+> Supplier name: 	SUSEソフトウエアソリューションズジャパン株式会社  
 > Contact first name: 	和美  
 > Contact last name: 	高田  
 > Contact phone number: 	080-2371-4575  
@@ -60,7 +60,7 @@ SWS例外申請DB →　Notes://d19dbr14.sagamino.ibm.com/4925806B0031FC54/C7522
 >   Deliverables: [help] 	作業報告書（サービスリクエスト・対応ログ）   
 >
 >   Job role                        Skill set  Band level Quantity(Month)  
->   ------------------------------  ---------  ---------- ---------------  
+>   \------------------------------  \---------  \---------- \---------------  
 >   Technical Support Professional  General    Tech Lv1    1.0   
 >
 - 購買へのコメント例：  
