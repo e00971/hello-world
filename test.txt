@@ -1,0 +1,18 @@
+test title  
+  test title2  
+  
+  ##### test title4  
+  
+  
+  - test1 
+  -- test2  
+  
+  <z/Linux 問題資料収集の手引き
+<NDL>
+<REPLICA 492576BA:0021C567>
+<HINT>   d19dbr05.sagamino.ibm.com/</HINT>
+<REM>z/Linux 問題資料収集の手引き</REM>
+</NDL>
+
+
+[markdown記法] <https://qiita.com/oreo/items/82183bfbaac69971917f>
