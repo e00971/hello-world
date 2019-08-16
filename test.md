@@ -31,7 +31,13 @@ SWS例外申請DB →　Notes://d19dbr14.sagamino.ibm.com/4925806B0031FC54/C7522
 >
 > 理由コード：	RC=1.IBMにないニッチエリアの専門知識・技術がある [購買承認のEvidence必要]  
 >  
-> 理由コード補足説明/Evidence貼付欄には以下のファイルを添付  
+> 理由コード補足説明/Evidence貼付欄には購買からのメールのPDFファイルを添付  
+> ※2019/02/01付けで「ノベル株式会社」から「SUSEソフトウエアソリューションズジャパン株式会社」に社名変更されました  
+  
+> Core化検討実施済み(*)：Y  
+> Core化検討実施済Yesの場合、以下に入力してください。  
+> 購買担当者：Della Yao/Japan/Contr/IBM  
+> Core化検討結果(可の場合はCore化実施時期記入)：不可  
 
 - 申請コメント例  
  「SUSEソフトウエアソリューションズジャパン株式会社へのxx月分の継続発注依頼です」  
@@ -79,24 +85,20 @@ SWS例外申請DB →　Notes://d19dbr14.sagamino.ibm.com/4925806B0031FC54/C7522
 >   Technical Support Professional  General    Tech Lv1    1.0   
 >
 - 購買へのコメント例：  
-現在CSAfp#F2DGDLにてSUSEソフトウエアソリューションズジャパン株式会社に依頼している業務委託の継続案件です。よろしくお願いします。
+> 現在CSAfp#F2DGDLにてSUSEソフトウエアソリューションズジャパン株式会社に依頼している業務委託の継続案件です。よろしくお願いします。  
+- Milestone detail の「Type」欄は以前はフランクで通ったが何か入れないととおらなくなったので「OTHER」を選択する（2019/01-)  
 
-  ※Milestone detail の「Type」欄は以前はフランクで通ったが何か入れないととおらなくなったので「OTHER」を選択する（2019/01-)
+- 申請書が受け付けられると、購買からノベル社に見積り依頼が実施される  
+- SUseから見積りが返されると、「Supplier response(s) to CSA Request F239QW requires your evaluation」というメールが送られてくる  
 
-(2) 申請書が受け付けられると、購買からノベル社に見積り依頼が実施される
-
-(3) ノベル社から見積りが返されると、「Supplier response(s) to CSA Request F239QW requires your evaluation」というメールが送られてくる
-
-(4) CSAfpで見積り書の内容をレビューして、合意する旨をバイヤーにコメントする  
+- CSAfpで見積り書の内容をレビューして、合意する旨をバイヤーにコメントする  
 - メニューから"running comments"を実行  
   バイヤーを含め関係者にメール送信するチェックボックスをマークしないと気づかれないので注意  
+> コメント例  
+>  「SUSEソフトウエアソリューションズジャパン株式会社様からご提示頂いた見積り内容に合意します。」    
 
-コメント例  
-「SUSEソフトウエアソリューションズジャパン株式会社様からご提示頂いた見積り内容に合意します。」  
-
-(5) 「Purchase requisition structure finalized for CSA Request F252L3」という件名のメールが来るので、手順書にしたがって Purchase requisition を実行  
-
-(6) 完了すると「見積登録完了のお知らせ - [ＳＴＳＳ＿ＬＩＮＵＸ＿ＮＯＶＥＬＬ＿’１７]」という件名のメールが届くので、次のステップに進む  
+- 「Purchase requisition structure finalized for CSA Request F252L3」という件名のメールが来るので、手順書にしたがって Purchase requisition を実行  
+- 完了すると「見積登録完了のお知らせ - [ＳＴＳＳ＿ＬＩＮＵＸ＿ＮＯＶＥＬＬ＿’１７]」という件名のメールが届くので、次のステップに進む  
 
 - プロセスガイド  　
 https://w3-connections.ibm.com/wikis/home?lang=ja#!/wiki/GTS%20R%26CM%EF%BC%8FWFM/page/Project%20Staffing%20Guide
