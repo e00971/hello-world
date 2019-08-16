@@ -1,32 +1,19 @@
-test  
-##  test1  
-###    test2  
-    
-    -test3
-    --test4
-    
-    <https://qiita.com/oreo/items/82183bfbaac69971917f>
-
-
+# Suse PSE 発注手順    (2019/08/16 更新)  
 
 ※外部発注プロセスを理解して、購買バイパスにならないように注意すること。  
  (参考資料 ->  [ビジネスプロセス研修資料](https://github.ibm.com/FUSHUKU/zLinux/blob/master/0643AF6EB51A031949257B02001210D4.md) ）
 
-| Left align | Right align | Center align |
-|:-----------|------------:|:------------:|
-| This       |        This |     This     |
-| column     |      column |    column    |
-| will       |        will |     will     |
-| be         |          be |      be      |
-| left       |       right |    center    |
-| aligned    |     aligned |   aligned    |
-
-| 作業項目     | 実施時期 | 手順             | 当年度の内容の記録   | 備考（ガイド・参考資料等）|
-|:-----------:|:--------:|:---------------:|:-------------------:|:----------------------:|
-| NonCore     | 1ヶ月毎  |        This     |           ff        |         dd             |
-| Supplier    |
-| 見積承認申請 |
+| 作業項目                     | 実施時期  | 手順                                               | 備考（ガイド・参考資料等）|
+|:---------------------------:|:---------:|:--------------------------------------------------:|:----------------------:|
+| NonCore Supplier見積承認申請 | 1ヶ月毎   | [^SWS例外申請DB]から「NonCore Supplier見積承認申請」を起票 |        dd             |
+| 見積り依頼                   | 1ヶ月毎   | CSA業務委託見積システムから「見積もり依頼申請書」を起票  |                        |
+| ITS Proj予算購入申請         | 1ヶ月毎   | ITS Proj予算購入申請DBから「外部発注 申請書」を起票     |                       |
+| 外部発注申請                 | 1ヶ月毎   | 外部発注申請DBから「代行業務　申請書」を起票             |
 
 <Notes://d19dbr14.sagamino.ibm.com/4925806B0031FC54/C752201663B186C049258076001AC935>  
 
 [Qiita](Notes://d19dbr14.sagamino.ibm.com/4925806B0031FC54/C752201663B186C049258076001AC935)
+
+[^SWS例外申請DB]:<Notes://d19dbr14.sagamino.ibm.com/4925806B0031FC54/C752201663B186C049258076001AC935>
+
+    
