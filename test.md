@@ -27,4 +27,5 @@ test
 | Supplier    |
 | 見積承認申請 |
 
-<Notes://d19dbr14.sagamino.ibm.com/4925806B0031FC54/C752201663B186C049258076001AC935>
+<Notes://d19dbr14.sagamino.ibm.com/4925806B0031FC54/C752201663B186C049258076001AC935>  
+
