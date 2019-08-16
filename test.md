@@ -36,32 +36,33 @@ SWS例外申請DB →　Notes://d19dbr14.sagamino.ibm.com/4925806B0031FC54/C7522
   （例：　ＳＴＳＳ＿ＬＩＮＵＸ＿ＮＯＶＥ ＬＬ＿２０１９年０１月  ）  
 - 申請書中の「Project Description」の 「Government or federal contract:」 のところは、GOE案件かどうかを示すところですが、2016/10/21の購買の確認により伊丹市は該当しないが国立病院機構はＧＯＥに該当するので、今後もGOEは「Ｙ」に設定するようにとのこと  
 - suppliersでは「suggest a new supplier」を選択し、supplier 情報は以下のノベル社の情報を入力する  
-
-Supplier name: 	ノベル株式会社　SUSEソフトウエアソリューションズジャパン株式会社  
-Contact first name: 	和美  
-Contact last name: 	高田  
-Contact phone number: 	080-2371-4575  
-Contact email address: 	kazumi.takada@suse.com  
-Supplier address: 	  
-  東京都港区赤坂９－７－１　ミッドタウン・タワー19階  
-
+>
+> Supplier name: 	ノベル株式会社　SUSEソフトウエアソリューションズジャパン株式会社  
+> Contact first name: 	和美  
+> Contact last name: 	高田  
+> Contact phone number: 	080-2371-4575  
+> Contact email address: 	kazumi.takada@suse.com  
+> Supplier address: 	  
+>   東京都港区赤坂９－７－１　ミッドタウン・タワー19階  
+>
 - Supplier warning(s)では、ノンコア推薦の理由として、RC=1:xxxxを記入（xxxxは例外申請管理番号）  
   RC=1は「IBMが保有しないニッチエリアの専門知識、技術を有する取引先。これにより提案をより競争力のあるものとすることが可能」
 
 - 「People involved 」の「Project coordinator」には以下のメンバーを指定する  
-威男　  大森　Takeo Ohmori/Japan/IBM@IBMJP Japan 81-80-5919-1315  
-知子　 馬場　 Tomoko Baba/Japan/IBM@IBMJP Japan 81-80-6706-1105  
-伸之　 澗隨　 Nobuyuki Kanzui/Japan/IBM@IBMJP Japan 81-43-331-3719   
+> 威男　  大森　Takeo Ohmori/Japan/IBM@IBMJP Japan 81-80-5919-1315  
+> 知子　 馬場　 Tomoko Baba/Japan/IBM@IBMJP Japan 81-80-6706-1105  
+> 伸之　 澗隨　 Nobuyuki Kanzui/Japan/IBM@IBMJP Japan 81-43-331-3719   
  
 - マイルストーンはCSAfpに記載する  
-   Milestone name: [help] 	サービスリクエスト対応  
-   Description: [help] 	サービスリクエスト対応  
-   Deliverables: [help] 	作業報告書（サービスリクエスト・対応ログ）   
-
-   Job role                        Skill set  Band level Quantity(Month)  
-   ------------------------------  ---------  ---------- ---------------  
-   Technical Support Professional  General    Tech Lv1    1.0   
-
+>
+>   Milestone name: [help] 	サービスリクエスト対応  
+>   Description: [help] 	サービスリクエスト対応  
+>   Deliverables: [help] 	作業報告書（サービスリクエスト・対応ログ）   
+>
+>   Job role                        Skill set  Band level Quantity(Month)  
+>   ------------------------------  ---------  ---------- ---------------  
+>   Technical Support Professional  General    Tech Lv1    1.0   
+>
 - 購買へのコメント例：  
 現在CSAfp#F2DGDLにてSUSEソフトウエアソリューションズジャパン株式会社に依頼している業務委託の継続案件です。よろしくお願いします。
 
